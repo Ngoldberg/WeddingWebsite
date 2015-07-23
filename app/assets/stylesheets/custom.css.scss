@@ -1,0 +1,25 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+html {
+  height: 100%;
+  background: -webkit-linear-gradient(#870000 5%, #190A05 90%);
+  background: -moz-linear-gradient(#870000 5%, #190A05 90%);
+  background: -ms-linear-gradient(#870000 5%, #190A05 90%);
+  background: -o-linear-gradient(#870000 5%, #190A05 90%);
+  background: linear-gradient(#870000 25%, #31140A 99%);
+  h1, p {
+   color: #FFCC00; 
+  }
+}
+.Names {
+  font-size: 90%;
+  text-align: center;
+  color: #FFCC00;
+}
+.navbar {
+  text-align: left;
+  float: left;
+  margin-top: 100px;
+  margin-left: 0px;
+}
